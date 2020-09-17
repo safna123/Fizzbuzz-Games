@@ -1,0 +1,64 @@
+* {
+    border: 0;
+    margin: 0 auto;
+    padding: 0;
+    color: white;
+}
+body{
+    background-color: slategrey;
+}
+h1 {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid wheat;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#inputType {
+    position: relative;
+    left: 150px;
+    width: 180px;
+    height: 30px;
+    color: black;
+    text-align: center;
+}
+.label {
+    position: relative;
+    left: 140px;
+    font-size: larger;
+    font-family: 'Roboto Slab', serif;
+        }
+#demo {
+    position: relative;
+    left: 150px;
+    top: 60px;
+    margin: 10px;
+    padding: 10px;
+    width: 20px;
+    font-size: larger;
+    font-family: 'Roboto Slab', serif;
+}
+#button {
+    position: relative;
+    right: 50px;
+    top: 60px;
+    width: 100px;
+    height: 30px;
+    padding: 10px;
+}
+.button {
+    color: black;
+    font-weight: bold;
+}
+.button-1 {
+    color: black;
+    font-weight: bold;
+}
+#button-1 {
+    position: relative;
+    right: 20px;
+    width: 100px;
+    height: 30px;
+    padding: 10px;
+    top: 60px;
+}
